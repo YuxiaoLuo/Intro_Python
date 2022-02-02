@@ -7,10 +7,6 @@ This course is intended to introduce how to use Python to program and write the 
 
 ## Tentative Schedule
 
-### Week 1
-    - Computer concepts 
-
-### Week 2 
-    - Flowcharts and pseudocode
+Please follow the official syllabus and find the folder for each week. IPython Notebook file is included. 
 
 
