@@ -17,7 +17,7 @@ As I will upload all the Jupyter Notebook scripts (`.ipynb` file) to the Github 
 *Step 3*
 
 4. Right click the Jupyter Notebook file, and select "**Save as...**". 
-![Step4](/data/github3.JPG)
+![Step4](/data/github3.jpg)
 *Step 4*
 
 5. Please change the suffix from "**.ipynb.txt**" to "**.ipynb**". (remove "**.txt**")
