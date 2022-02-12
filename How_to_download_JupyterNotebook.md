@@ -22,7 +22,7 @@ As I will upload all the Jupyter Notebook scripts (`.ipynb` file) to the Github 
 
 5. Please change the suffix from "**.ipynb.txt**" to "**.ipynb**". (remove "**.txt**")
 ![Step5](/data/github4.JPG)
-*Step 5*
+*Step 5. a*
 
 ![Step5](/data/github5.JPG)
-*Step 5*
+*Step 5. b*
