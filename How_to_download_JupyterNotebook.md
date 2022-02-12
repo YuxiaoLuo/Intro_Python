@@ -13,7 +13,7 @@ As I will upload all the Jupyter Notebook scripts (`.ipynb` file) to the Github 
 *Step 2*
 
 3. You will see the following page after clicking the "**Raw**" button. 
-![Step3](/data/github2.jpg)
+![Step3](/data/github2.JPG)
 *Step 3*
 
 4. Right click the Jupyter Notebook file, and select "**Save as...**". 
