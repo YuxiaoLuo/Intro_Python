@@ -1,1 +1,5 @@
-taco***ramen***burger***steak***dumpling***
+taco
+ramen
+burger
+steak
+dumpling
