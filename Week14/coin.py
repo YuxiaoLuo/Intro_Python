@@ -1,4 +1,5 @@
 # this is program coin.py
+# coin module
 import random 
 
 class Coin:
